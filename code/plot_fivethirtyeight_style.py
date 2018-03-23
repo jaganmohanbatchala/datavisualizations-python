@@ -3,8 +3,6 @@
 
 # ### plt.style.use('fivethirtyeight')
 
-# In[1]:
-
 from matplotlib import pyplot as plt
 import numpy as np
 
@@ -27,8 +25,6 @@ ax.set_title("'fivethirtyeight' style sheet")
 
 plt.show()
 
-
-# In[ ]:
 
 
 
